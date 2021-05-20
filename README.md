@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="sharmabhee@gmail.com | E-mail" title="sharmabhee@gmail.com" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/>](mailto:sharmabhee@gmail.com)
 
+[<img align="left" alt="abheesht-sharma-567303156 | LinkedIn" title="abheesht-sharma-567303156" width="22px" height="22px" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/linkedin-in.svg" />](https://www.linkedin.com/in/abheesht-sharma-567303156/)
+
 <br/>
 
 ### Languages and Tools:
