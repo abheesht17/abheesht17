@@ -1,5 +1,5 @@
 ### Hi there, I am Abheesht Sharma 👋
-I'm a fifth year undergraduate at BITS Goa and I am currently interning at LCS2-IIITD.
+I'm a fifth year undergraduate at BITS Goa pursuing B.E. Computer Science and M.Sc. Mathematics. I am currently interning at LCS2-IIITD.
 <!--
 **abheesht17/abheesht17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
