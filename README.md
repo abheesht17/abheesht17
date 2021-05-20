@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Diachronic Analysis, Superpixels, Multimodal Learning (memes, in particular) and SVM Kernel Analysis.
 - 👯 I’m looking to collaborate on Natural Language Processing, Computer Vision and Multimodal Learning.
 
-<br/>
-
 ### Hit Counter
 
 ![Visitor Count](https://profile-counter.glitch.me/abheesht17/count.svg)
@@ -55,10 +53,7 @@ Here are some ideas to get you started:
 <img align="left" alt="CSS" width="26px" height="26px"  title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 </div>
 
-<br/><br/>
-
 ---
-
 
 <img align="left" alt="abheesht17's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abheesht17&show_icons=true&hide_border=true" />
   
