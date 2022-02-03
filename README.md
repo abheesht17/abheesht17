@@ -1,5 +1,5 @@
 ### Hi there, I am Abheesht Sharma 👋
-I'm a fifth year undergraduate at BITS Goa pursuing B.E. Computer Science and M.Sc. Mathematics. I am currently interning at LCS2-IIITD.
+I'm a fifth year undergraduate at [BITS Goa](https://www.bits-pilani.ac.in/goa/) pursuing B.E. Computer Science and M.Sc. Mathematics. I am currently working at Nutanix in the Overlay Networking team as a Member of Technical Staff Intern. On the research front, I am interning at [Carnegie Mellon University](https://www.cmu.edu/) and [APPCAIR, BITS Goa](https://www.bits-pilani.ac.in/appcair/), with special focus on Clinical NLP.
 <!--
 **abheesht17/abheesht17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Personal Interests
-- 🔭 I’m currently working on Diachronic Analysis, Superpixels, Multimodal Learning (memes, in particular) and SVM Kernel Analysis.
+- 🔭 I’m currently working on projects related to Open vSwitch (OVS), Clinical NLP, Diachronic Analysis, Superpixels, Multimodal Learning (memes, in particular), etc.
 - 🌱 I’m currently learning Linguistics and about Graph Neural Networks.
 - 👯 I’m looking to collaborate on Natural Language Processing, Computer Vision and Multimodal Learning.
 
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Java" width="26px" height="26px" title="Java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="PyTorch" width="26px" height="26px"title="PyTorch" src="https://github.com/pytorch/pytorch/blob/master/docs/source/_static/img/pytorch-logo-flame.svg" />
 <img align="left" alt="TF" width="26px" height="26px" title="TensorFlow" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
-<img align="left" alt="HuggingFace" width="26px" height="26px" title="HuggingFace" src="https://raw.githubusercontent.com/huggingface/transformers/master/docs/source/imgs/transformers_logo_name.png" />
+<img align="left" alt="HuggingFace" width="26px" height="26px" title="HuggingFace" src="https://huggingface.co/front/assets/huggingface_logo.svg" />
 <img align="left" alt="LaTeX" width="26px" height="26px" title="LaTeX" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />
 <img align="left" alt="Linux" width="26px" height="26px"title="Linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="Visual Studio Code" width="26px" height="26px" title="VSCode" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
