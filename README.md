@@ -1,5 +1,6 @@
 ### Hi there, I am Abheesht Sharma 👋
-I'm a fifth year undergraduate at [BITS Goa](https://www.bits-pilani.ac.in/goa/) pursuing B.E. Computer Science and M.Sc. Mathematics. I am currently working at Nutanix in the Overlay Networking team as a Member of Technical Staff Intern. On the research front, I am interning at [Carnegie Mellon University](https://www.cmu.edu/) and [APPCAIR, BITS Goa](https://www.bits-pilani.ac.in/appcair/), with special focus on Clinical NLP.
+I'm a fifth year undergraduate at [BITS Goa](https://www.bits-pilani.ac.in/goa/) pursuing B.E. Computer Science and M.Sc. Mathematics. I am currently working at Nutanix in the Overlay Networking team as a Member of Technical Staff Intern. On the research front, I am interning at [Carnegie Mellon University](https://www.cmu.edu/) and [APPCAIR, BITS Goa](https://www.bits-pilani.ac.in/appcair/), with special focus on Clinical NLP. I'm also working on building a [playground](https://github.com/Adversarial-Deep-Learning/code-soup) for Adversarial Deep Learning.
+
 <!--
 **abheesht17/abheesht17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ### Personal Interests
-- 🔭 I’m currently working on projects related to Open vSwitch (OVS), Clinical NLP, Diachronic Analysis, Superpixels, Multimodal Learning (memes, in particular), etc.
+- 🔭 I’m currently working on projects related to Open vSwitch (OVS), Clinical NLP, Adversarial Deep Learning, Diachronic Analysis, Superpixels, Multimodal Learning (memes, in particular), etc.
 - 🌱 I’m currently learning Linguistics and about Graph Neural Networks.
 - 👯 I’m looking to collaborate on Natural Language Processing, Computer Vision and Multimodal Learning.
 
