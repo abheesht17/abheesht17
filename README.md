@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Personal Interests
 - 🔭 I’m currently working on projects related to Open vSwitch (OVS), Clinical NLP, Adversarial Deep Learning, Diachronic Analysis, Superpixels, Multimodal Learning (memes, in particular), etc.
 - 🌱 I’m currently learning Linguistics and about Graph Neural Networks.
-- 👯 I’m looking to collaborate on projects related to Natural Language Processing, Computer Vision and Multimodal Learning.
+- 👯 I’m looking to collaborate on Natural Language Processing, Computer Vision and Multimodal Learning projects.
 
 ### Hit Counter
 
