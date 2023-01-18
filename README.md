@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Linguistics and about Graph Neural Networks.
 - 👯 I’m looking to collaborate on Natural Language Processing, Computer Vision and Multimodal Learning projects. -->
 
-### Hit Counter
+<!-- ### Hit Counter
 
-![Visitor Count](https://profile-counter.glitch.me/abheesht17/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/abheesht17/count.svg) -->
 
 ### Connect with me:
 
@@ -60,8 +60,8 @@ Here are some ideas to get you started:
 
 <br/><br/>
 
----
+<!-- --- -->
 
-<img align="left" alt="abheesht17's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abheesht17&show_icons=true&hide_border=true" />
+<!-- <img align="left" alt="abheesht17's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abheesht17&show_icons=true&hide_border=true" /> -->
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abheesht17"/>
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abheesht17"/> -->
