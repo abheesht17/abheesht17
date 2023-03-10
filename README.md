@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="abheesht-sharma-567303156 | LinkedIn" title="abheesht-sharma-567303156" width="22px" height="22px" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/linkedin-in.svg" />](https://www.linkedin.com/in/abheesht-sharma-567303156/)
 
-<br/>
+<!-- <br/> -->
 
 <!-- ### Languages and Tools:
 
@@ -57,8 +57,8 @@ Here are some ideas to get you started:
 <img align="left" alt="HTML5" width="26px" height="26px"  title="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS" width="26px" height="26px"  title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 </div> -->
-
-<br/><br/>
+<!-- 
+<br/><br/> -->
 
 <!-- --- -->
 
