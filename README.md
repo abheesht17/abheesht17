@@ -1,5 +1,5 @@
 ### Hi there, I am Abheesht Sharma 👋
-I'm a Research Scientist at [Amazon Science](https://www.amazon.science/). I work in the Traffic Quality team, where we devise Machine Learning techiques to detect advertisement bots. I love contributing to open source and have been contributing extensively to [KerasNLP](https://github.com/keras-team/keras-nlp).
+I'm a Research Scientist at [Amazon Science](https://www.amazon.science/). I work in the Traffic Quality team, where we devise Machine Learning techniques to detect advertisement bots. I love contributing to open source and have been contributing extensively to [KerasNLP](https://github.com/keras-team/keras-nlp).
 
 <!--
 **abheesht17/abheesht17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
