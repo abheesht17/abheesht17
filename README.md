@@ -1,5 +1,5 @@
 ### Hi there, I am Abheesht Sharma 👋
-I'm a Research Scientist at [Amazon Science](https://www.amazon.science/), and I recently graduated from [BITS Goa](https://www.bits-pilani.ac.in/goa/) with a Bachelor's in Computer Science and a Master's in  Mathematics. Previously, I was working at Nutanix in the Overlay Networking team as an MTS-II. I have formerly interned at [Carnegie Mellon University](https://www.cmu.edu/), [APPCAIR, BITS Goa](https://www.bits-pilani.ac.in/appcair/), [LCS2-IIITD](https://lcs2.iiitd.edu.in/), [IIT-Madras](https://www.iitm.ac.in/) and [CEERI-Pilani](https://www.ceeri.res.in/) where I worked on Clinical NLP, Multimodal meme analysis, depth estimation, etc. I love contributing to Open Source and have been contributing extensively to [KerasNLP](https://github.com/keras-team/keras-nlp).
+I'm a Research Scientist at [Amazon Science](https://www.amazon.science/). I work in the Traffic Quality team, where we devise Machine Learning techiques to detect advertisement bots. I love contributing to open source and have been contributing extensively to [KerasNLP](https://github.com/keras-team/keras-nlp).
 
 <!--
 **abheesht17/abheesht17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
