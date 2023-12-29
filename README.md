@@ -1,4 +1,4 @@
-### Hi there, I am Abheesht Sharma 👋
+### Hi there, I am Abheesht 👋
 I'm an Applied Scientist at [Amazon Science](https://www.amazon.science/). I work in the Traffic Quality team, where we devise Machine Learning techniques to detect advertisement bots. I love contributing to open source and have been contributing extensively to [KerasNLP](https://github.com/keras-team/keras-nlp).
 
 <!--
