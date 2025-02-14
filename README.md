@@ -1,5 +1,5 @@
 ### Hi there, I am Abheesht 👋
-I am a member of the Keras team at [Google](https://about.google/). I am currently working on KerasRS, a RecSys library built using Keras 3. I love contributing to open source and have been contributing extensively to [KerasHub](https://github.com/keras-team/keras-hub) from before my time at Google. Previously, I was an Applied Scientist at [Amazon Science](https://www.amazon.science/), where my work involved devising Machine Learning techniques to detect advertisement bots.
+I am a member of the [Keras](https://keras.io/) team at [Google](https://about.google/). I am currently working on KerasRS, a RecSys library built using Keras 3. I love contributing to open source and have been contributing extensively to [KerasHub](https://github.com/keras-team/keras-hub) from before my time at Google. Previously, I was an Applied Scientist at [Amazon Science](https://www.amazon.science/), where my work involved devising Machine Learning techniques to detect advertisement bots.
 
 <!--
 **abheesht17/abheesht17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
